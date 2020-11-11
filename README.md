@@ -2,7 +2,7 @@
         <img src="https://img.shields.io/docker/pulls/grosa1/ionic-android-ci.svg"
             alt="Pulls"></a> 
 
-## Docker Image for Android CI
+## Docker Image for Ionic Android CI
 Docker image based on seanghay/android-ci for Ionic Android CI pipelines.
 
 ## Latest version:
